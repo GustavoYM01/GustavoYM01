@@ -1,4 +1,4 @@
-## Olá, sou o Gustavo Y. Matimoto. Um discípulo da área de programação (ツ)
+## Olá, sou o Gustavo Y. Matimoto. Um discípulo da programação (ツ)
 
 <div align="center">
   <a href="https://github.com/GustavoYM01">
