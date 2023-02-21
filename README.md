@@ -1,4 +1,4 @@
-## Prazer, meu nome é Gustavo Yamashita Matimoto. E gosto bastante da área de desenvolvimento de softwares, e de café (ツ)☕
+## Prazer, meu nome é Gustavo Yamashita Matimoto. Gosto bastante da área de desenvolvimento de softwares, e de café (ツ)☕
 
 <div align="center">
   <a href="https://github.com/GustavoYM01">
