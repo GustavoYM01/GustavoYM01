@@ -1,4 +1,4 @@
-## Olá, sou o Gustavo Y. Matimoto. Um discípulo da programação (ツ)
+## Prazer, meu nome é Gustavo Yamashita Matimoto. E gosto bastante da área de desenvolvimento de softwares, e de café (ツ)☕
 
 <div align="center">
   <a href="https://github.com/GustavoYM01">
