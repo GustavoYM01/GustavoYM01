@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoYM01&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h3>Conhecimento em:</h3>
+<h3>Habilidades:</h3>
   
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </br> ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
